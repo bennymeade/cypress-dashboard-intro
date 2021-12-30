@@ -17,4 +17,4 @@ jobs:
           install: false
           browser: chrome
           headless: true
-          command: npx cypress run --record --key {{ secrets.CYPRESS_RECORD_KEY }}
+          command: npx cypress run --record --key ${{ secrets.CYPRESS_RECORD_KEY }}
