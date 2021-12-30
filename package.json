@@ -1,0 +1,15 @@
+{
+  "name": "cypress-dashboard-intro",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennymeade/cypress-dashboard-intro.git"
+  },
+  "devDependencies": {
+    "cypress": "^8.5.0",
+    "prettier": "^2.5.1"
+  }
+}
