@@ -9,7 +9,7 @@
     "url": "git+https://github.com/bennymeade/cypress-dashboard-intro.git"
   },
   "devDependencies": {
-    "cypress": "^8.5.0",
+    "cypress": "9.0.0",
     "prettier": "^2.5.1"
   }
 }
