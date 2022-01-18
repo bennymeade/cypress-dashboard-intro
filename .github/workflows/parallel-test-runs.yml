@@ -8,6 +8,7 @@ jobs:
   parallel-runs-across-platforms:
     name: every OS
     strategy:
+      fail-fast: false
       matrix:
         # run 2 copies of the current job in parallel
         # and they will load balance all specs
